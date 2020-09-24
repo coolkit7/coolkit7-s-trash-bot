@@ -1,0 +1,1 @@
+# coolkit7-s-trash-bot
