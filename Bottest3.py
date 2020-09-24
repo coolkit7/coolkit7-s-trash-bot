@@ -92,4 +92,4 @@ async def bang(ctx):
 async def rp(ctx):
 	await ctx.send('dont pirate you dipshit motherfucking asshole im talking to you laz')
  
-client.run(token)
+client.run(os.getenv('token'))
